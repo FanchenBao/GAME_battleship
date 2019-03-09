@@ -4,6 +4,9 @@ A console version of Hasbro's battleship game
 _The following is converted from google doc using GD2md-html version 1.0β11_  
 _Project derived from a school project of COP2220 in FAU in Summer 2018_
 
+## How to Run the Game
+* 
+
 
 ## © 2018 Fanchen Bao 
 
