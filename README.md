@@ -3,10 +3,12 @@ A console version of Hasbro's battleship game
 
 _The following is converted from google doc using GD2md-html version 1.0β11_  
 _Project derived from a school project of COP2220 in FAU in Summer 2018_  
-_Game is run from main.c_
 
 ## How to Run the Game
-* 
+* Clone all the source and header files.
+* Create a new project in an IDE (e.g. Eclipse) and add all the files into the project.
+* Build the projects.
+* Run the executible file.
 
 
 ## © 2018 Fanchen Bao 
