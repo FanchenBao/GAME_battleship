@@ -9,8 +9,7 @@ _Project derived from a school project of COP2220 in FAU in Summer 2018_
 * Create a new project in an IDE (e.g. Eclipse) and add all the files into the project.
 * Build the projects.
 * Run the executible file in a console (e.g. Terminal for Mac).
-* Main menu upon game launch:
-![alt text](https://github.com/FanchenBao/GAME_battleship/ "Main Menu")
+* ![Main Menu](https://github.com/FanchenBao/GAME_battleship/blob/master/img/main_menu.png "Main Menu")
 
 ## How to Play
 There are five options on the main menu. Enter corresponding number to choose which option to go for.
@@ -19,18 +18,18 @@ There are five options on the main menu. Enter corresponding number to choose wh
     * You will be notified whether you have missed or made a hit.
     * AI will drop a bomb on you and you will be notified whether AI has missed or made a hit.
     * On the ship map, miss is represented by '/', hit 'X'
-    * Game play screen shot: ![alt text](https://github.com/FanchenBao/GAME_battleship/ "Game Play")
+    * ![Game play](https://github.com/FanchenBao/GAME_battleship/blob/master/img/game_play.png "Game Play")
     * When you or AI wins the game, you decide whether to play again. If you choose to play again, you will be directed back to the main menu.
-    * Game win screen shot: ![alt text](https://github.com/FanchenBao/GAME_battleship/ "Game Win")
+    * ![Game win screen shot](https://github.com/FanchenBao/GAME_battleship/blob/master/img/game_win.png "Game Win")
 2. Select AI difficulty (easy, medium, and hard). Try all of them out and it is not difficult to notice how AI improves upon its decision making at higher difficulty level.
 3. Customize ship. You can add a new ship cateogry (e.g. Sailboat), decide how big the ship should be (e.g. size 2), and how many of that particular ship you want to put on the map (e.g. quantity 2)
-    * Customize ship screen shot: ![alt text](https://github.com/FanchenBao/GAME_battleship/ "Customize Ship")
+    * ![Customize ship](https://github.com/FanchenBao/GAME_battleship/blob/master/img/customize_ship.png "Customize Ship")
     * Notice from the example above, a warning is given at the end of ship customization, indicating that the ship map is too small, and you should resize the ship map before starting the game. This requirement is in place due to the rule in ship deployment. With the current ship map size, it is most likely impossible to fit all the ships according to the deployment requirement. Therefore, you must resize the ship map
 4. Resize ship map. You will be provided with the optimal area for the ship map size based on the current status of fleet (i.e. number of ships and size of ships). You can choose number of rows and columns with a product larger than the optimal value provided. If the ship size you decide upon is too small a warning will be given. 
-    * Resize ship map screen shot: ![alt text](https://github.com/FanchenBao/GAME_battleship/ "Resize Ship Map")
+    * ![Resize ship map](https://github.com/FanchenBao/GAME_battleship/blob/master/img/resize_ship_map.png "Resize Ship Map")
     * Notice from the example above that 133 is the suggested optimal ship map area. The initial attempt to set row = col = 5 is rejected for being too small. Later attempt to set row = col = 12 is successful. Row and col values do not have to be equal (i.e. ship map can be rectangle in shape).
     * After resizing the ship map, you can start the game again. And now the game play will show the customization.
-    * New game play after customization: ![alt text](https://github.com/FanchenBao/GAME_battleship/ "Game Play After Customization")
+    * ![New game play after customization](https://github.com/FanchenBao/GAME_battleship/blob/master/img/game_play_after_customization.png "Game Play After Customization")
 
 ## Project Maintenance
 This project is currently being maintained. If any bug shows up, please contact me at jonathonbao@gmail.com. Have fun!
